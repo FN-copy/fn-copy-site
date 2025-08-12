@@ -66,7 +66,7 @@ body.dark-mode .navbar {
 }
 
 body.dark-mode .logo-img {
-    background-image: url("Img/Logo_no_words.png");
+    background-image: url("Logo_no_words.png");
 }
 
 .navbar-brand .logo-text {
@@ -3824,4 +3824,5 @@ body.dark-mode .contact-item strong {
 /* Quando l’osservatore aggiunge questa classe, le animazioni ripartono */
 .play-animation {
     animation-play-state: running !important;
+
 }
